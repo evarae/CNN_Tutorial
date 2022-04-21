@@ -1,7 +1,7 @@
 # Convolutional Neural Network Tutorial
 Hi! Thanks for checking out my tutorial where I walk you through the process of coding a convolutional neural network in java from scratch. After building a network for a university assignment, I decided to create a tutorial to (hopefully) help others do the same and improve my own understanding of neural networks. 
 
-To run this code, please download the CSV mnist data replace the filepath variables in the main function to match your CSV directory.
+To run this code, please download the CSV mnist data and replace the filepath variables in the main function to match your CSV directory.
 
 My github repository:
 https://github.com/evarae/CNN_Tutorial
